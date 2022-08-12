@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_query_actions",
+  "info": {
+    "name": "Action",
+    "icon": "bomb",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Action": {
+      "type": "string"
+    }
+  }
+}

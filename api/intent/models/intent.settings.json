@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "intents",
+  "info": {
+    "name": "intent",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "user_query": {
+      "type": "component",
+      "repeatable": true,
+      "component": "intent-component.query"
+    },
+    "action": {
+      "type": "component",
+      "repeatable": true,
+      "component": "intent-component.action"
+    },
+    "response": {
+      "type": "component",
+      "repeatable": true,
+      "component": "intent-component.response"
+    }
+  }
+}

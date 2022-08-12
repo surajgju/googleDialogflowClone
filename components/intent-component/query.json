@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_query_queries",
+  "info": {
+    "name": "query",
+    "icon": "american-sign-language-interpreting",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "query": {
+      "type": "string"
+    }
+  }
+}

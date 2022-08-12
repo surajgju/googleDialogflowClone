@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_intent_component_responses",
+  "info": {
+    "name": "response",
+    "icon": "award"
+  },
+  "options": {},
+  "attributes": {
+    "response": {
+      "type": "string"
+    }
+  }
+}
