@@ -5,11 +5,14 @@ This application is clone of Dialogflow functionality of take text as input from
 The input can be given from admin panel or from  rest api endpoint
 
 For run project you need understand strapi basics 
-#Installation Steps
+<b>Installation Steps</b><br>
 1) install node
 2) clone project 
 3) In application root directory hit command `npm run develop`
 
-#Use Case:
+<b>Use Case</b><br>
 after successfull run of project go to admin>intents and give text input and save 
 ml model automatically train on give input via strapi hooks
+
+<b>Strapi ref</b>
+https://docs-v3.strapi.io/developer-docs/latest/getting-started/introduction.html
