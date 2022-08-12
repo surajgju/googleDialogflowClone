@@ -2,6 +2,8 @@
 
 This application is clone of Dialogflow functionality of take text as input from user and train machine learninng model on basis of give in put.
 
+I made this just for testing purpose not for production.
+
 The input can be given from admin panel or from  rest api endpoint
 
 For run project you need understand strapi basics 
